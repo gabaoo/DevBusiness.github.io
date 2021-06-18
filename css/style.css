@@ -78,17 +78,17 @@ footer{
 }
 
 .picture{
-	width: 400px;
-    border-radius: 10px;
+	width: 300px;
+	border-radius: 10px;
     margin-bottom: 20px;
-	float:right;
 }
 
 .description{
 	color: white;
 	max-width: 60%;
-	margin-left: 70px;
+	margin-left: 60px;
     text-align:center;
+	display:inline-block;
 }
 
 .description p,.description h3{
